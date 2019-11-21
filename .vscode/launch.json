@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CarCost",
+            "request": "launch",
+            "mainClass": "CarCost",
+            "projectName": "CarCost_80356eea"
+        }
+    ]
+}
